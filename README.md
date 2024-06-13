@@ -1,28 +1,37 @@
-### Hi there 👋, I'm Le Nguyen Dang Khoa!
+<h1 align="center">Hi 👋, I'm Le Nguyen Dang Khoa</h1>
+<h3 align="center">Pursuing a Master’s in Financial Engineering at WorldQuant University, grounded in a Bachelor's in Applied Mathematics. I am deeply passionate about the convergence of financial technology and predictive analytics, bringing extensive experience in boosting operational efficiencies and applying cutting-edge AI and machine learning techniques in finance.</h3>
 
-I'm currently mastering Financial Engineering at WorldQuant University and hold a Bachelor's in Applied Mathematics from Vietnam National University HCMC - International University. My professional journey spans roles from Digital Finance Ecosystem Business Analyst at Tien Phong Bank to IT Business Analyst/Data Scientist at GMTECH.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhoaLearn&label=Profile%20views&color=0e75b6&style=flat" alt="KhoaLearn" /> </p>
 
-#### 🚀 About Me
-My interests lie at the intersection of financial technology innovations and predictive analytics in finance. I'm passionate about enhancing operational efficiency and implementing advanced machine learning and deep learning methodologies in business applications.
+- 🚀 **Current Role:** Spearheading initiatives to optimize digital finance ecosystems at <a href="https://www.linkedin.com/company/tpbank/mycompany/" target="_blank">TP Bank</a> and engineering AI-driven solutions at GMTECH.
 
-#### 💼 Professional Experience
-At TP Bank, I spearhead initiatives to optimize digital finance ecosystems and at GMTECH, I've engineered solutions like a real-time fraud monitoring dashboard and have been instrumental in integrating robust eKYC processes. My work has significantly refined fraud detection frameworks using machine learning models and streamlined customer onboarding and loan origination processes.
+- 💻 **Skills:** Proficient in Python, TensorFlow, PyTorch, Flask, SQL, Tableau, Power BI, Google BigQuery.
 
-#### 🛠 Skills
-- **Programming & Development:** Proficient in Python, with extensive use of TensorFlow and PyTorch. Experienced in Flask and Django for web development, and proficient with Git and LaTeX.
-- **AI & Machine Learning:** Expert in AI, including computer vision with OpenCV and NLP applications using Hugging Face's Transformers.
-- **Data Management & Analysis:** Skilled in SQL, Tableau, Power BI, and Google BigQuery for insightful data analysis and management.
-- **Fintech Technologies:** Deep understanding of technologies like eKYC, underwriting optimization, and fraud rule configuration using FastAPI.
+- 📚 **Research:** Focus on fraud detection using machine learning, econometric predictions of stock prices, financial risk assessments, and strategic asset allocation.
 
-#### 🎓 Education
-- **MSc in Financial Engineering,** WorldQuant University
-- **BSc in Applied Mathematics,** Vietnam National University HCMC
+- 🌱 **Learning:** Continuously advancing my expertise in deep learning and machine learning applications in finance.
 
-#### 📚 Research and Projects
-My research includes work on fraud detection using machine learning and econometric predictions of stock prices. Noteworthy projects involve financial risk assessments and strategic asset allocation for optimal investment portfolios.
+- 📫 **Reach me at:** [khoale.maiu@gmail.com](mailto:your-khoale.maiu@gmail.com)
 
-#### 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/khoale-maiu/)
-- [GitHub](https://github.com/KhoaLearn)
-
-Feel free to reach out for collaborations or just a chat about tech, finance, or anything in between!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/khoale-maiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoale-maiu" height="30" width="40" /></a>
+<a href="https://github.com/KhoaLearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="KhoaLearn" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a> 
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a> 
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a> 
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://public.tableau.com/en-us/s/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/></a> 
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/></a> 
+<a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google BigQuery" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoaLearn&show_icons=true&locale=en&layout=compact" alt="KhoaLearn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhoaLearn&show_icons=true&locale=en" alt="KhoaLearn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhoaLearn&" alt="KhoaLearn" /></p>
