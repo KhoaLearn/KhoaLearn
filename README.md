@@ -24,7 +24,6 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a> 
 <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a> 
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a> 
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a> 
 <a href="https://public.tableau.com/en-us/s/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/></a> 
